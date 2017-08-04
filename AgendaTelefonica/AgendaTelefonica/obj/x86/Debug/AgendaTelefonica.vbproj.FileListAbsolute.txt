@@ -1,0 +1,11 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\AgendaTelefonica\AgendaTelefonica\obj\x86\Debug\AgendaTelefonica.pdb

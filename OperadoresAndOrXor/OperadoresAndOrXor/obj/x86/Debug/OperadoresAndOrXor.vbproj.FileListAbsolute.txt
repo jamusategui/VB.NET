@@ -1,0 +1,10 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\bin\Debug\OperadoresAndOrXor.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\bin\Debug\OperadoresAndOrXor.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\bin\Debug\OperadoresAndOrXor.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\OperadoresAndOrXor.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\OperadoresAndOrXor.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAndOrXor\OperadoresAndOrXor\obj\x86\Debug\OperadoresAndOrXor.pdb

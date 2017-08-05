@@ -1,0 +1,10 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\bin\Debug\OperadoresAbreviados.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\bin\Debug\OperadoresAbreviados.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\bin\Debug\OperadoresAbreviados.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\OperadoresAbreviados.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\OperadoresAbreviados.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\OperadoresAbreviados\OperadoresAbreviados\obj\x86\Debug\OperadoresAbreviados.pdb
